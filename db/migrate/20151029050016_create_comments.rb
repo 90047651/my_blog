@@ -1,4 +1,4 @@
-class CreateConmments < ActiveRecord::Migration
+class CreateComments < ActiveRecord::Migration
   def change
     create_table :conmments do |t|
 
